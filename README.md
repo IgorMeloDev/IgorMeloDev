@@ -26,12 +26,10 @@ Um(a) desenvolvedor(a) apaixonado(a) por tecnologia e soluções criativas.
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/[SEU-USUARIO-LINKEDIN]" target="_blank">
-<img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[SEU-USUARIO-LINKEDIN]" height="30" width="40" />
+<a href="https://www.google.com/search?q=https://linkedin.com/in/igor-melo-a29892331" target="_blank">
+<img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igor-melo-a29892331" height="30" width="40" />
 </a>
-<a href="https://instagram.com/[SEU-USUARIO-INSTAGRAM]" target="_blank">
-<img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[SEU-USUARIO-INSTAGRAM]" height="30" width="40" />
-</a>
+
 </p>
 
 <br>
