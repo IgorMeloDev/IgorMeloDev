@@ -26,8 +26,8 @@ Um(a) desenvolvedor(a) apaixonado(a) por tecnologia e soluções criativas.
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/igor-melo-a29892331" target="_blank">
-<img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="igor-melo-a29892331" height="30" width="40" />
+<a href="https://www.linkedin.com/in/igor-melo-a29892331/" target="_blank">
+<img align="center" src="https://media.licdn.com/dms/image/v2/D5603AQHfAlrZRg944g/profile-displayphoto-shrink_800_800/B56ZWp5oATGQAk-/0/1742312211030?e=1757548800&v=beta&t=dVLLj77fQv7zAdxKj0eiERz7Mau7IzvXbiAyQGI46Tc" alt="igor-melo-a29892331" height="30" width="40" />
 </a>
 
 </p>
