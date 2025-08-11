@@ -27,7 +27,7 @@ Um(a) desenvolvedor(a) apaixonado(a) por tecnologia e soluções criativas.
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/igor-melo-a29892331" target="_blank">
-<img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="[SEU-USUARIO-LINKEDIN]" height="30" width="40" />
+<img align="center" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADgAAAA4CAMAAACfWMssAAAAWlBMVEUAd7f///8Ac7UAbLIAcLSkw930+PtupM0AdbZ1pM3J3ewdfrvl7/bX5vEAbrOTttYAZ7CArdIpgry30OVHjcK/1OdWk8Q7icCLs9V2qM/e6/SbvttbmMfQ4O0hA6YQAAABgUlEQVRIie2X25KDIAyGIWDJolAPta3avv9rLoqIjnXWcLez+18Z4BOIJETGuVE5MoIwV4ZzxocSSJwjoRw4MyWN8ioNU5ACgmK0/QVhziIHVgh59jVxHNpK9yarLXFuqAs+6SmI5IXPekoKZhu+KKeAMnL8SpgSbyuwJYBwX4MExyJbgRnFO+IdwQflLEHcZEP7kFLNnLbEwysfrcP6isqNh9XmIOhBhiAneTIY6HuEGCPn40uRPa+T7mM3dN6oXLtlXWOKS//O7p/WY03w6g0ZVIuLrR3ihypee4/bJTpcLpFZMLQwfK1hR4rPYKv5VrugOwD3qjERbEUiyBETwQ5OgvpV16qPdiPPgZm7WhBWYWfsKbD3vsB8abmIU2C4WlZTbi+3IzD4UMaTx86ARVgXdAu4zbsHoA6egC8iKH4P+L/HPzLjUUJOBn9cKqjCq3Uhj7XxRv8KKQ1RzwNCiRDCeSwBR03N6J+FjakQ534/wGHJZWdyoZtcWicX86m/D9824BXFvTxKDQAAAABJRU5ErkJggg==" alt="Igor Melo" height="30" width="40" />
 </a>
 <a href="https://instagram.com/[SEU-USUARIO-INSTAGRAM]" target="_blank">
 <img align="center" src="https://www.google.com/search?q=https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="[SEU-USUARIO-INSTAGRAM]" height="30" width="40" />
