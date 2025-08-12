@@ -14,4 +14,5 @@
 <img allign="center" alt="REACT" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 <img allign="center" alt="NODEJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 <img allign="center" alt="PYTHON" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+<img allign="center" alt="EXPRESS.JS" src="https://img.shields.io/badge/express.js-000000?style=for-the-badge&logo=express&logoColor=white">
 <div> <br/>
